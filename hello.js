@@ -1,1 +1,1 @@
-const para = "homoniewiadomo"
+const para = "homoniewiadomozmiana"
